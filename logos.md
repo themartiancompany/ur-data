@@ -4,27 +4,39 @@ A square logo.
 
 <div
    align="center">
-  <img
-     src="ur.png"
-  />
+  <a
+     href="ur.png">
+    <img
+       src="ur.png"
+       width="500"
+    />
+  </a>
 </div>
 
 A landscape logo with centered text.
 
 <div
    align="center">
-  <img
-     src="ur-overlappin.png"
-  />
+  <a
+     href="ur-overlappin.png">
+    <img
+       src="ur-overlappin.png"
+       width="500"
+    />
+  </a>
 </div>
 
 A landscape logo with left aligned text.
 
 <div
    align="center">
+  <a
+     href="ur-semi-overlappin.png">
   <img
      src="ur-semi-overlappin.png"
+     width="500"
   />
+  </a>
 </div>
 
 ### License
