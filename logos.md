@@ -14,7 +14,7 @@ A landscape logo with centered text.
 <div
    align="center">
   <img
-     src="ur-overlapped.png"
+     src="ur-overlappin.png"
   />
 </div>
 
@@ -23,7 +23,7 @@ A landscape logo with left aligned text.
 <div
    align="center">
   <img
-     src="ur-semi-overlapped.png"
+     src="ur-semi-overlappin.png"
   />
 </div>
 
