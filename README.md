@@ -3,7 +3,7 @@
 This repository contains
 [Ur](
   https://github.com/themartiancompany/ur)
-application store static
+uncensorable application store static
 binary data.
 
 ### License
