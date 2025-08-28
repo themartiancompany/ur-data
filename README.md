@@ -6,6 +6,9 @@ This repository contains
 uncensorable application store static
 binary data.
 
+- [Logos](
+     logos.md)
+
 ### License
 
 The Ur is developed by Pellegrino Prevete and released under the
